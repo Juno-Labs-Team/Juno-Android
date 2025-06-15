@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Juno Brand Colors -->
+    <color name="juno_brand_blue">#1E3A8A</color>
+    <color name="juno_brand_light_blue">#3B82F6</color>
+    <color name="juno_accent_orange">#F59E0B</color>
+    
+    <!-- Light Theme Colors -->
+    <color name="juno_primary">#1E3A8A</color>
+    <color name="juno_on_primary">#FFFFFF</color>
+    <color name="juno_primary_container">#DBEAFE</color>
+    <color name="juno_on_primary_container">#1E3A8A</color>
+    
+    <color name="juno_secondary">#F59E0B</color>
+    <color name="juno_on_secondary">#FFFFFF</color>
+    <color name="juno_secondary_container">#FEF3C7</color>
+    <color name="juno_on_secondary_container">#92400E</color>
+    
+    <color name="juno_tertiary">#10B981</color>
+    <color name="juno_on_tertiary">#FFFFFF</color>
+    <color name="juno_tertiary_container">#D1FAE5</color>
+    <color name="juno_on_tertiary_container">#065F46</color>
+    
+    <color name="juno_error">#DC2626</color>
+    <color name="juno_on_error">#FFFFFF</color>
+    <color name="juno_error_container">#FEE2E2</color>
+    <color name="juno_on_error_container">#991B1B</color>
+    
+    <color name="juno_outline">#6B7280</color>
+    <color name="juno_outline_variant">#D1D5DB</color>
+    <color name="juno_surface">#FFFFFF</color>
+    <color name="juno_on_surface">#111827</color>
+    <color name="juno_surface_variant">#F9FAFB</color>
+    <color name="juno_on_surface_variant">#4B5563</color>
+    <color name="juno_inverse_surface">#1F2937</color>
+    <color name="juno_inverse_on_surface">#F9FAFB</color>
+    <color name="juno_inverse_primary">#60A5FA</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="juno_primary_dark">#60A5FA</color>
+    <color name="juno_on_primary_dark">#1E3A8A</color>
+    <color name="juno_primary_container_dark">#1E40AF</color>
+    <color name="juno_on_primary_container_dark">#DBEAFE</color>
+    
+    <color name="juno_secondary_dark">#FBBF24</color>
+    <color name="juno_on_secondary_dark">#92400E</color>
+    <color name="juno_secondary_container_dark">#D97706</color>
+    <color name="juno_on_secondary_container_dark">#FEF3C7</color>
+    
+    <color name="juno_tertiary_dark">#34D399</color>
+    <color name="juno_on_tertiary_dark">#065F46</color>
+    <color name="juno_tertiary_container_dark">#059669</color>
+    <color name="juno_on_tertiary_container_dark">#D1FAE5</color>
+    
+    <color name="juno_error_dark">#F87171</color>
+    <color name="juno_on_error_dark">#991B1B</color>
+    <color name="juno_error_container_dark">#DC2626</color>
+    <color name="juno_on_error_container_dark">#FEE2E2</color>
+    
+    <color name="juno_outline_dark">#9CA3AF</color>
+    <color name="juno_outline_variant_dark">#374151</color>
+    <color name="juno_surface_dark">#111827</color>
+    <color name="juno_on_surface_dark">#F9FAFB</color>
+    <color name="juno_surface_variant_dark">#1F2937</color>
+    <color name="juno_on_surface_variant_dark">#D1D5DB</color>
+    <color name="juno_inverse_surface_dark">#F9FAFB</color>
+    <color name="juno_inverse_on_surface_dark">#1F2937</color>
+    <color name="juno_inverse_primary_dark">#1E3A8A</color>
 </resources>
